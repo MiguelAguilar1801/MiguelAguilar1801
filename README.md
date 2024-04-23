@@ -14,7 +14,7 @@
 
  🔭 I’m currently working on [My portfolio website](https://MiguelAguilar1801.github.io)
 
- 🌱 I’m currently learning **Looker studio**
+ 🌱 I’m currently learning **HTML**
 
  💬 Ask me about **Data visualization,Python,SQL**
 
