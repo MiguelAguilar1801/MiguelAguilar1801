@@ -4,7 +4,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst;Engineering+Student;Open-Source+Enthusiast" alt="Headline" />
     </div>  
-<p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>
+<p align="center"><a href="https://MiguelAguilar1801.github.io">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ![GitHub followers](https://img.shields.io/github/followers/MiguelAguilar1801?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/MiguelAguilar1801?style=social)<img src="https://komarev.com/ghpvc/?username=MiguelAguilar1801" alt="" />
@@ -20,7 +20,7 @@
 
  📫 Reach out to me: **jesusmiguel.aguilar01@gmail.com**
 
- ✍ You can find my resume [here](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
+ ✍ You can find my resume [here]()
 
  ⚡ Fun fact: **I also apply my knowledge in data analysis to create diagrams in personal interests such as cinema, music and sports!"**
 
