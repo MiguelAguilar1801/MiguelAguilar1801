@@ -31,7 +31,7 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Social Media
  </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/jesus-miguel-aguilar-mendoza-358405262/" target="_blank">
+<a href="www.linkedin.com/in/jesus-aguilar-mendoza-358405262" target="_blank">
   <img align="center" alt="Jesus Aguilar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/jesusmiguel_1801/" target="_blank">
